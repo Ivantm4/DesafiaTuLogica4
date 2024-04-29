@@ -151,6 +151,8 @@ public class Gestion {
 		avionEntrenamiento2.setMostrarAvion();
 		System.out.println("Información avión 5:");
 		avionEntrenamiento3.setMostrarAvion();
+		
+		sc.close();
 	}
 
 }
